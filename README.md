@@ -1,5 +1,11 @@
 # Written
 一款开源中文字体，基于红道手写体改，参照中国大陆字形标准。
+## 预览
+![1](https://github.com/Steve-Yuu/YSHi-Written/blob/main/1.PNG)
+![2](https://github.com/Steve-Yuu/YSHi-Written/blob/main/2.PNG)
+![3](https://github.com/Steve-Yuu/YSHi-Written/blob/main/3.PNG)
+![4](https://github.com/Steve-Yuu/YSHi-Written/blob/main/4.PNG)
+
 
 ## 介绍
 由于该字体有一种由中性笔书写出来的特性，故起名“Written”。但是字体字数不足以满足简体中文显示，故创建此工程，补简体并且改G。
