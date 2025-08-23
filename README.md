@@ -1,5 +1,5 @@
 # Written/写意体
-一款开源中文字体，基于红道手写体改，参照中国大陆字形标准。
+一款开源中文字体，基于[Zen红道手写体](https://github.com/googlefonts/zen-kurenaido)改，参照中国大陆字形标准。
 ## 预览
 ![1](https://github.com/Steve-Yuu/YSHi-Written/blob/main/1.PNG)
 ![2](https://github.com/Steve-Yuu/YSHi-Written/blob/main/2.PNG)
@@ -26,6 +26,10 @@
 - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL 1.1](https://scripts.sil.org/OFL) 公开。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， 禁止单独出售字体文件(OTF/TTF 文件)的行为。
 - 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
+
+## 鸣谢
+原版日文字体[Zen红道手写体（Zen Fonts Kurenaido）](https://github.com/googlefonts/zen-kurenaido)
+
 
 ## 备注
 - 本字体如“木”字底带钩、“感”字半包围等等，均视为设计差异（可参考“华文行楷”或一些G标字帖）
