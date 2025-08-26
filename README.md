@@ -1,4 +1,4 @@
-# Written/写意体
+# YShi-Written/写意体
 一款开源中文字体，基于[Zen红道手写体](https://github.com/googlefonts/zen-kurenaido)改，参照中国大陆字形标准。
 ## 预览
 ![1](https://github.com/Steve-Yuu/Written/blob/main/1.PNG)
